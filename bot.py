@@ -3,8 +3,7 @@ from process_meeting_reports import get_meeting_report, get_meeting_report_by_ke
 
 BOT_NAME = "Robô Secretário da CIPA - Comissão Interna de Prevenção de Acidentes"
 BOT_DB = "chat.sqlite3"
-PATH_DB = "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask"
-MEETING_REPORTS_DB = f"{PATH_DB}/meeting_reports.sqlite3"
+MEETING_REPORTS_DB = "meeting_reports.sqlite3"
 
 MINIMUM_CONFIDENCE_LEVEL = 0.6
 

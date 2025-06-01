@@ -10,7 +10,7 @@ ANSWER_BOT_URL = f"{BOT_URL}/answer"
 MEETING_REPORT_BOT_URL = f"{BOT_URL}/meeting_reports"
 
 MINIMUM_CONFIDENCE_LEVEL = 0.60
-MEETING_REPORTS_PATH = "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask/meeting_reports"
+MEETING_REPORTS_PATH = "chatterbot-cipa-python-nltk-flask/meeting_reports"
 
 chat = Flask(__name__)
 chat.secret_key = secrets.token_hex(16)

@@ -7,9 +7,8 @@ from string import punctuation
 import os
 import sqlite3
 
-MEETING_REPORTS_PATH = "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask/meeting_reports"
-DB_PATH = "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask"
-MEETING_REPORTS_DB = f"{DB_PATH}/meeting_reports.sqlite3"
+MEETING_REPORTS_PATH = "meeting_reports"
+MEETING_REPORTS_DB = "meeting_reports.sqlite3"
 
 MIN_FREQUENCE = 2
 KEYWORDS_BY_MEETING_REPORT = 5

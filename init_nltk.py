@@ -8,9 +8,9 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('floresta')
 
-# Download do modelo do spaCy (pt_core_news_sm)
+# Download do modelo do spaCy (en_core_news_sm)
 try:
     import spacy
-    spacy.load("pt_core_news_sm")
+    spacy.load("en_core_news_sm")
 except (OSError, ImportError):
-    subprocess.check_call([sys.executable, "-m", "spacy", "download", "pt_core_news_sm"])
+    subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_news_sm"])

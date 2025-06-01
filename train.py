@@ -1,11 +1,11 @@
-from chatterbot import ChatBot, languages
+from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 import json
 
 CONVERSATIONS = [
-    "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask/conversations/greetings.json",
-    "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask/conversations/basic_informations.json",
-    "/home/marco/Documentos/chatterbot-cipa-python-nltk-flask/conversations/search_commands.json"
+    "conversations/greetings.json",
+    "conversations/basic_informations.json",
+    "conversations/search_commands.json"
 ]
 
 BOT_NAME = "Robô Secretário da CIPA - Comissão Interna de Prevenção de Acidentes"
@@ -14,8 +14,7 @@ DB_BOT = "chat.sqlite3"
 def create_trainer():
     bot = ChatBot(BOT_NAME, 
                 storage_adapter='chatterbot.storage.SQLStorageAdapter',
-                database_uri=f'sqlite:///{DB_BOT}',
-                tagger_language=languages.POR)
+                database_uri=f'sqlite:///{DB_BOT}')
     bot.storage.drop()
 
     return ListTrainer(bot)

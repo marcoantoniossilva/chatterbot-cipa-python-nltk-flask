@@ -1,4 +1,8 @@
 __pycache__/
 venv/
 chat.sqlite3
+chat.sqlite3-shm
+chat.sqlite3-wal
 meeting_reports.sqlite3
+meeting_reports-shm
+meeting_reports-wal
