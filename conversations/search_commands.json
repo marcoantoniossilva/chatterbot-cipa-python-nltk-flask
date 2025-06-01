@@ -1,0 +1,12 @@
+{
+    "conversations": [
+        {
+            "messages": [ "quero pesquisar atas", "quero pesquisar uma ata", "quero pesquisar por uma ata", "quero uma ata", "preciso de uma ata" ],
+            "answer": "Informe as palavras-chave que deseja pesquisar, separe-as usando uma vírgula"
+        },
+        {
+            "messages": [ "pesquisar de novo", "preciso de outra ata", "quero mais atas" ],
+            "answer": "Informe as palavras-chave que deseja pesquisar, separe-as usando uma vírgula"
+        }
+    ]
+}

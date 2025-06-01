@@ -1,0 +1,6 @@
+chatterbot
+chatterbot_corpus
+nltk
+
+requests
+flask

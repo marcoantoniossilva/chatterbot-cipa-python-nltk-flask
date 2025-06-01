@@ -1,0 +1,20 @@
+{
+    "conversations": [
+        {
+            "messages": [ "oi", "olá", "tudo bem?", "oi, tudo bem?" ],
+            "answer": "Olá, sou o Robô Secretário da CIPA - Comissão Interna de Prevenção de Acidentes. Posso responder perguntas sobre as últimas reuniões e te ajudar a encontrar atas. Digite 'quero pesquisar atas' ou pressione o botão 🔍 para procurar atas por palavras-chave"
+        },
+        {
+            "messages": [ "bom dia" ],
+            "answer": "Bom dia, sou o Robô Secretário da CIPA - Comissão Interna de Prevenção de Acidentes. Posso responder perguntas sobre as últimas reuniões e te ajudar a encontrar atas. Digite 'quero pesquisar atas' ou pressione o botão 🔍 para procurar atas por palavras-chave"
+        },
+        {
+            "messages": [ "boa tarde" ],
+            "answer": "Boa tarde, sou o Robô Secretário da CIPA - Comissão Interna de Prevenção de Acidentes. Posso responder perguntas sobre as últimas reuniões e te ajudar a encontrar atas. Digite 'quero pesquisar atas' ou pressione o botão 🔍 para procurar atas por palavras-chave"
+        },
+        {
+            "messages": [ "boa noite" ],
+            "answer": "Boa noite, sou o Robô Secretário da CIPA - Comissão Interna de Prevenção de Acidentes. Posso responder perguntas sobre as últimas reuniões e te ajudar a encontrar atas. Digite 'quero pesquisar atas' ou pressione o botão 🔍 para procurar atas por palavras-chave"
+        }               
+    ]
+}

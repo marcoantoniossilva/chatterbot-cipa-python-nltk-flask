@@ -1,0 +1,107 @@
+{
+    "conversations": [
+        {
+            "messages": [
+                "o que é a CIPA?",
+                "me fale sobre a CIPA",
+                "quero saber sobre a CIPA"
+            ],
+            "answer": "A CIPA (Comissão Interna de Prevenção de Acidentes) e uma equipe de profissionais especializados na prevenção de acidentes no trabalho."
+        },
+        {
+            "messages": [
+                "o que faz a CIPA?",
+                "qual o objetivo da CIPA?",
+                "quero saber sobre a missão da CIPA"
+            ],
+            "answer": "A CIPA tem como objetivo promover a prevenção de acidentes no trabalho, promovendo a conscientização sobre os riscos e a implementação de medidas de prevenção adequadas."
+        },
+        {
+            "messages": [
+                "quando ocorrem as reuniões da CIPA?",
+                "quando é a pŕoxima reunião da CIPA?",
+                "que dia é a próxima reunião da CIPA?",
+                "que data é a próxima reunião da CIPA?"
+            ],
+            "answer": "As reuniões da CIPA ocorrem regularmente, geralmente em dias e horas definidos. Consulte o calendário oficial da CIPA para obter as datas e horários das reuniões."
+        },
+        {
+            "messages": [
+                "como posso entrar em contato com a CIPA?",
+                "qual o contato da CIPA",
+                "qual o telefone da CIPA",
+                "quero entrar em contato com a CIPA",
+                "qual o e-mail da CIPA?"
+            ],
+            "answer": "Para entrar em contato com a CIPA, utilize os seguintes canais: Telefone: (77) 9999-9999, E-mail: cipa@gmail.com"
+        },
+        {
+            "messages": [
+                "o que fazer em caso de acidente de trabalho?",
+                "como posso reportar um acidente de trabalho?",
+                "quero reportar um acidente de trabalho"
+            ],
+            "answer": "Para reportar um acidente de trabalho, utilize os seguintes canais: Telefone: (77) 9999-9999, E-mail: cipa@gmail.com"
+        },
+        {
+            "messages": [
+                "como faço para entrar na CIPA?",
+                "quero entrar na CIPA",
+                "como entrar na CIPA",
+                "quero me cadastrar na CIPA",
+                "como fazer parte da CIPA"
+            ],
+            "answer": "Para concorrer a uma vaga na CIPA, aguarde a próxima eleição. As informações para cadastro serão fixadas no mural de informações da CIPA."
+        },
+        {
+            "messages": [
+                "o que são EPIs?",
+                "quais são os EPIs obrigatórios?",
+                "me fale sobre equipamentos de proteção individual",
+                "preciso usar EPI?",
+                "quais EPIs devo usar?"
+            ],
+            "answer": "EPIs são Equipamentos de Proteção Individual que devem ser usados para garantir a segurança no ambiente de trabalho. Os tipos obrigatórios variam de acordo com sua função e setor. Consulte seu supervisor ou a CIPA para saber quais são os adequados ao seu trabalho."
+        },
+        {
+            "messages": [
+                "como reportar uma situação de risco?",
+                "vi uma situação perigosa, o que faço?",
+                "tem um risco no meu setor, como aviso?",
+                "como aviso a CIPA sobre um perigo?",
+                "como faço uma denúncia de risco?"
+            ],
+            "answer": "Se você identificar uma situação de risco, comunique imediatamente seu supervisor e informe a CIPA através do telefone (77) 9999-9999 ou e-mail cipa@gmail.com. A prevenção começa com a sua atenção!"
+        },
+        {
+            "messages": [
+                "a empresa oferece treinamento de segurança?",
+                "como participar do treinamento da CIPA?",
+                "tem curso de segurança?",
+                "quando é o próximo treinamento de segurança?",
+                "quero me inscrever no treinamento da CIPA"
+            ],
+            "answer": "Sim, a empresa oferece treinamentos de segurança regularmente. As datas e inscrições são divulgadas nos murais e por e-mail. Fique atento aos comunicados da CIPA!"
+        },
+        {
+            "messages": [
+                "posso solicitar cadeira ergonômica?",
+                "tenho dor nas costas, posso pedir cadeira nova?",
+                "como solicitar ajuste ergonômico?",
+                "a CIPA cuida da ergonomia?",
+                "o que faço se minha cadeira está ruim?"
+            ],
+            "answer": "Sim, você pode solicitar melhorias ergonômicas. Informe seu gestor imediato e, se necessário, envie uma solicitação formal à CIPA para avaliação e orientação."
+        },
+        {
+            "messages": [
+                "como funcionam as eleições da CIPA?",
+                "quando acontecem as eleições da CIPA?",
+                "quero votar nas eleições da CIPA",
+                "como posso ser candidato da CIPA?",
+                "qual o processo eleitoral da CIPA?"
+            ],
+            "answer": "As eleições da CIPA são realizadas anualmente. Todos os funcionários podem votar e se candidatar, conforme as regras da NR-5. Fique atento ao edital publicado nos murais e canais internos."
+        }
+    ]
+}

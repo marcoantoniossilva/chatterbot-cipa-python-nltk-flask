@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+chat.sqlite3
+meeting_reports.sqlite3
