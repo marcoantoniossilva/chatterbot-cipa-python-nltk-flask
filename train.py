@@ -1,4 +1,4 @@
-from chatterbot import ChatBot
+from chatterbot import ChatBot, languages
 from chatterbot.trainers import ListTrainer
 import json
 
@@ -14,7 +14,8 @@ DB_BOT = "chat.sqlite3"
 def create_trainer():
     bot = ChatBot(BOT_NAME, 
                 storage_adapter='chatterbot.storage.SQLStorageAdapter',
-                database_uri=f'sqlite:///{DB_BOT}')
+                database_uri=f'sqlite:///{DB_BOT}',
+                tagger_language=languages.POR)
     bot.storage.drop()
 
     return ListTrainer(bot)
