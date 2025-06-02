@@ -2,7 +2,7 @@
 
 Este chatterbot é capaz de reponder perguntas sobre a CIPA (Comissão Interna de Prevenção de Acidentes). Por Exemplo: "O que é a CIPA?", "Quando ocorrem as reuniões da CIPA", "Como fazer parte da CIPA" e etc...
 
-Além de responder perguntas, o robô fornece atas das últimas reuniões, por meio de perquisas. Para tal, é realizado um processamento das últimas atas, aplicado a tokenização e remoção de palavras de parada (stopwords) para extração de palavras-chave.
+Além de responder perguntas, o robô fornece atas das últimas reuniões, por meio de pesquisas. Para tal, é realizado um processamento das últimas atas, aplicado a tokenização e remoção de palavras de parada (stopwords) para extração de palavras-chave.
 
 Este projeto foi desenvolvido com base no projeto "Bibliotecário" elaborado pelo **Professor Dr. Luis Paulo da Silva Carvalho**, disponível [aqui](https://gitlab.com/luiscarvalho1/sistemas_especialistas/-/blob/main/2025/bibliotecario-parcial.zip).
 
@@ -134,3 +134,12 @@ Ao pesquisar e encontrar uma ata, a mesma pode sr baixada clicando no seu nome, 
 ```
 
 ---
+## 🎥 Vídeo de demonstração
+
+Youtube: https://youtu.be/l-6IofWCfxY
+
+---
+## 👨‍💻 Autor
+
+**Marco Antonio S. Silva**  
+[LinkedIn](https://www.linkedin.com/in/marcosilva95) • [GitHub](https://github.com/marcoantoniossilva) • [YouTube](https://www.youtube.com/@MarcoAntonioSSilvaDev)
